@@ -29,7 +29,7 @@ p.large {
     font-size: 16px;
 }
 
-
+/*navbar css starts from here*/
 
 .navbar-collapse{
      background: transparent;
@@ -100,7 +100,7 @@ background-color: #222;
 }
 
 
-
+/*navbar for mobile version*/
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
@@ -220,8 +220,10 @@ header .intro-text .intro-heading {
     }
     }
 
+/*navbar ends here*/
 
 
+/* Footer css here*/
 .footer{
     background-color: #292c2f;
     padding:1.5em 0;
@@ -245,7 +247,7 @@ header .intro-text .intro-heading {
 	text-decoration: none;
 	color: inherit;
 }
-
+/*intro text css*/
 .featurette-image {
     width:350px;
     height: 350px;
@@ -259,6 +261,8 @@ header .intro-text .intro-heading {
     line-height: 30px;
     text-transform: uppercase;
 }
+
+/*Contact page cc*/
 #contact{
     background: url('http://i.imgur.com/xZipqin.jpg');
     
@@ -278,6 +282,8 @@ header .intro-text .intro-heading {
 #contactform{
    margin-top: 50px;
 }
+
+/* Portfolio page css starts here*/
 #portfolio{
       background: url('http://i.imgur.com/6U8hBI6.jpg');
     background-repeat: no-repeat;
@@ -393,3 +399,5 @@ color:#ea4c89;
     font-size:2em;
     
 }
+
+/*portfolio css ends here*/

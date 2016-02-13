@@ -1,5 +1,5 @@
 "use strict";
-
+/*Fucntion for mywork title*/
 (function () {
     var work;
     work = document.getElementById("head");
@@ -7,6 +7,7 @@
 
 })();
 
+/*Fucntions for portfolio image titles*/
 
 (function () {
     var workone;
